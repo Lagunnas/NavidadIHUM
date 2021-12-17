@@ -107,7 +107,8 @@ p {
   padding: 15px 0;
 }
 iframe {
-  max-width: 100%;
+  width: 400px;
+  height: 300px;
 }
 #jade {
   text-align: center;
