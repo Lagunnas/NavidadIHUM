@@ -106,6 +106,9 @@ p {
 .navbar-default {
   padding: 15px 0;
 }
+iframe {
+  max-width: 100%;
+}
 #jade {
   text-align: center;
   color: #edeef3;
